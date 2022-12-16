@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">signin</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="firstname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="email">email</string>
+    <string name="password_1">password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="i_accept_terms_of_use">I accept terms of use</string>
+    <string name="submit">submit</string>
+    <string name="create_your_account">create your account</string>
+    <string name="textview">textview</string>
+
+
+</resources>
